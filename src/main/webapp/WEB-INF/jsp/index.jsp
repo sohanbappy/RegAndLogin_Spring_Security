@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Registration And Login App</title>
 </head>
 <body>
-
+		<h2>Hello Spring!!!!!!!!</h2>
 </body>
 </html>
